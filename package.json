@@ -3,6 +3,18 @@
     "displayName": "Pall Theme",
     "description": "Pall Theme",
     "version": "0.0.1",
+    "publisher": "aligok",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aligoek/Pall-Theme"
+    },
+    "keywords": [
+        "theme",
+        "light theme",
+        "pall",
+        "pall theme",
+        "low contrast"
+    ],
     "engines": {
         "vscode": "^1.66.0"
     },
