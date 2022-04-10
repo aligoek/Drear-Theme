@@ -1,8 +1,8 @@
 {
-    "name": "vscode-pall-theme",
+    "name": "pall",
     "displayName": "Pall-Theme",
     "description": "Pall Theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Goek",
     "repository": {
         "type": "git",
