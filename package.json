@@ -1,12 +1,12 @@
 {
-    "name": "pall",
-    "displayName": "Pall Theme",
+    "name": "vscode-pall-theme",
+    "displayName": "Pall-Theme",
     "description": "Pall Theme",
     "version": "0.0.1",
     "publisher": "Goek",
     "repository": {
         "type": "git",
-        "url": "https://github.com/aligoek/Pall-Theme"
+        "url": "https://github.com/aligoek/Pall-Theme.git"
     },
     "keywords": [
         "theme",
@@ -26,7 +26,7 @@
             {
                 "label": "Pall Theme",
                 "uiTheme": "vs",
-                "path": "./themes/Pall Theme-color-theme.json"
+                "path": "./themes/pall.json"
             }
         ]
     }
