@@ -1,2 +1,4 @@
 ## Vs Code Pall Theme
-Low contrast light theme for VS Code
+Low contrast minimal light theme for VS Code
+
+![](./themesample.png)
