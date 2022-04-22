@@ -27,7 +27,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#4d4136"
+				"foreground": "#949fb8"
 			}
 		},
 		{
@@ -699,7 +699,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#4d4136"
+				"foreground": "#949fb8"
 			}
 		}
 	],
@@ -840,8 +840,8 @@
 	  "badge.foreground": "#ebeef5",
 	  "terminal.foreground": "#292b4f",
 	  "terminal.selectionBackground": "#292b4f88",
-	  "terminalCursor.background": "#292b4f",
-	  "terminalCursor.foreground": "#fafafa",
+	  "terminalCursor.background": "#fff",
+	  "terminalCursor.foreground": "#292b4f",
 	  "terminal.border": "#292b4f22",
 	  "terminal.ansiBlack": "#000000",
 	  "terminal.ansiBlue": "#001792",
