@@ -1,18 +1,19 @@
 {
-    "name": "pall",
-    "displayName": "Pall-Theme",
-    "description": "Pall Theme",
+    "name": "drear",
+    "displayName": "Drear Theme",
+    "description": "Drear Theme with light and dark variants",
     "version": "0.0.4",
     "publisher": "Goek",
     "repository": {
         "type": "git",
-        "url": "https://github.com/aligoek/Pall-Theme.git"
+        "url": "https://github.com/aligoek/Drear-Theme.git"
     },
     "keywords": [
         "theme",
         "light theme",
-        "pall",
-        "pall theme",
+        "dark theme",
+        "drear",
+        "drear theme",
         "low contrast"
     ],
     "engines": {
@@ -24,9 +25,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Pall Theme",
+                "label": "Drear Light",
                 "uiTheme": "vs",
-                "path": "./themes/pall.json"
+                "path": "./themes/drear_dark.json"
+            },
+            {
+                "label": "Drear Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/drear_night.json"
             }
         ]
     }
